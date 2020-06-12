@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+	<file original="" datatype="plaintext" xml:space="preserve" source-language="ko" target-language="en">
+		<header>
+			<tool tool-id="lokalise.com" tool-name="Lokalise"/>
+		</header>
+		<body>
+			<trans-unit id="test" resname="test">
+				<source>테스트</source>
+				<target>test</target>
+			</trans-unit>
+			<trans-unit id="report::title::totalreport" resname="report::title::totalreport">
+				<source>종합 보고서</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::title::summaryreport" resname="report::title::summaryreport">
+				<source>요약 보고서</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::title::detailreport" resname="report::title::detailreport">
+				<source>상세 보고서</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::title::snpinfo" resname="report::title::snpinfo">
+				<source>유전자형 정보</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::title::solution" resname="report::title::solution">
+				<source>솔루션</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::title::nutrition" resname="report::title::nutrition">
+				<source>유전자형 맞춤 식단</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::title::exercise" resname="report::title::exercise">
+				<source>나의 요구 활동량</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::level::low" resname="report::level::low">
+				<source>낮음</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::level::mid" resname="report::level::mid">
+				<source>보통</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::level::high" resname="report::level::high">
+				<source>높음</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::bmi::type:::0" resname="report::bmi::type:::0">
+				<source>저체중</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::bmi::type:::1" resname="report::bmi::type:::1">
+				<source>정상</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::bmi::type:::2" resname="report::bmi::type:::2">
+				<source>과체중</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::bmi::type:::3" resname="report::bmi::type:::3">
+				<source>비만</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::bmi::type:::4" resname="report::bmi::type:::4">
+				<source>고도비만</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::whr::type:::0" resname="report::whr::type:::0">
+				<source>정상</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::whr::type:::1" resname="report::whr::type:::1">
+				<source>과지방</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::whr::type:::2" resname="report::whr::type:::2">
+				<source>복부비만</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::obesitytable::title" resname="report::obesitytable::title">
+				<source>연령대별 비만 유병률 (국민건강 통계)</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::obesitytable::obesity::average" resname="report::obesitytable::obesity::average">
+				<source>평균 유병률</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::obesitytable::obesity::yours" resname="report::obesitytable::obesity::yours">
+				<source>본인의 유병률</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::obesitytable::generation" resname="report::obesitytable::generation">
+				<source>대</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::genescore::chunk::average" resname="report::genescore::chunk::average">
+				<source>평균</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::genescore::chunk::resultof" resname="report::genescore::chunk::resultof">
+				<source>의 결과</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::genescore::chunk::point" resname="report::genescore::chunk::point">
+				<source>점</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::genescore::text0" resname="report::genescore::text0">
+				<source>이 분석결과는 아래의 유전자분석결과로부터 도출되었습니다.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::snpinfo::numberofchromosome" resname="report::snpinfo::numberofchromosome">
+				<source>번 염색체</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::snpinfo::influence" resname="report::snpinfo::influence">
+				<source>판정결과에 대한 영향력</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::snpinfo::frequency" resname="report::snpinfo::frequency">
+				<source>유전자형 빈도</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::snpinfo::percentof" resname="report::snpinfo::percentof">
+				<source>인의 비율</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::snpinfo::reliability" resname="report::snpinfo::reliability">
+				<source>과학적 신뢰도</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::snpinfo::readpaper" resname="report::snpinfo::readpaper">
+				<source>참고 연구보고서 보기</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text0" resname="report::exercise::text0">
+				<source>아래의 가이드를 참조하여 자신의 신체활동 경험과 현재의 신체 상태를 바탕으로 적절하게 시작하고, 운동수준을 점진적으로 높이는 것을 추천합니다. 표준신체활동지침은 전문가 집단의 자문이 반영된 국책연구과제의 결과물 입니다.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text1" resname="report::exercise::text1">
+				<source>성인의 유산소 신체활동 강도 별&lt;/br&gt;자각 강도와 활동 예시</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text2" resname="report::exercise::text2">
+				<source>자각강도</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text3" resname="report::exercise::text3">
+				<source>활동예시</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text4" resname="report::exercise::text4">
+				<source>중강도&lt;br/&gt;신체활동</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text5" resname="report::exercise::text5">
+				<source>고강도&lt;br/&gt;신체활동</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text6" resname="report::exercise::text6">
+				<source>중강도 신체활동</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text7" resname="report::exercise::text7">
+				<source>심장 박동이 조금 빨라지거나 호흡이 약간 가쁜 상태</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text8" resname="report::exercise::text8">
+				<source>고강도 신체활동</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text9" resname="report::exercise::text9">
+				<source>심장 박동이 많이 빨라지거나 호흡이 많이 가쁜 상태</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text10" resname="report::exercise::text10">
+				<source>신체활동 지침</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text11" resname="report::exercise::text11">
+				<source>성인은 중강도 유산소 신체활동을 일주일에 150분(일일 30분) 이상 또는 고강도 유산소 신체활동을 일주일에 75분 이상 수행합니다. 고강도 신체 활동의 1분은 중강도 신체활동의 2분과 같기 때문에, 중강도 신체활동과 고강도 신체활동을 섞어서 각 활동에 상당하는 시간만큼 신체활동을 할 수 있으며 적어도 10분 이상을 지속합니다.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text12" resname="report::exercise::text12">
+				<source>위의 가이드를 참조하여 자신의 신체활동 경험과 현재의 신체 상태를 바탕으로 적절하게 시작하고, 운동수준을 점진적으로 높이는 것을 추천합니다. 표준신체활동지침은 전문가 집단의 자문을 반영한 국책과제의 결과물 입니다.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text13" resname="report::exercise::text13">
+				<source>활동 예시</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::text14" resname="report::exercise::text14">
+				<source>근력 운동은 일주일에 2일 이상 신체 각 부위를 모두 포함하여 수행하고, 한 세트에 8~12회 반복합니다. 근력 운동을 한 신체 부위는 하루 이상 휴식을 취한 후 다시 하는 것이 좋습니다. 해당 운동이 수월하게 느껴진다면 무게를 더하거나 세트 수를 2~3회까지 늘리도록 합니다. 근력 운동의 예로는 윗몸 일으키기, 팔굽혀 펴기, 계단 오르기 등의 체중 부하 운동, 덤벨이나  탄력밴드 등을 사용하는 기구 운동이 있습니다.</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::yours" resname="report::exercise::chart::yours">
+				<source>당신의 유전자점수</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::average" resname="report::exercise::chart::average">
+				<source>평균</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::type114" resname="report::exercise::chart::type114">
+				<source>근력</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::type115" resname="report::exercise::chart::type115">
+				<source>지구력</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::type116" resname="report::exercise::chart::type116">
+				<source>유산소</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::type117" resname="report::exercise::chart::type117">
+				<source>운동효과</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::type118" resname="report::exercise::chart::type118">
+				<source>운동회복</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::type137" resname="report::exercise::chart::type137">
+				<source>근지구력</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::chart::type138" resname="report::exercise::chart::type138">
+				<source>심폐지구력</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item0" resname="report::exercise::example::item0">
+				<source>휴식/취침</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item1" resname="report::exercise::example::item1">
+				<source>걷기</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item2" resname="report::exercise::example::item2">
+				<source>빨리 걷기</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item3" resname="report::exercise::example::item3">
+				<source>자전거 타기</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item4" resname="report::exercise::example::item4">
+				<source>배드민턴 연습</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item5" resname="report::exercise::example::item5">
+				<source>청소(진공청소기)</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item6" resname="report::exercise::example::item6">
+				<source>등산(내리막)</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item7" resname="report::exercise::example::item7">
+				<source>수영연습</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item8" resname="report::exercise::example::item8">
+				<source>등산(오르막)</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item9" resname="report::exercise::example::item9">
+				<source>배트민턴 시합</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item10" resname="report::exercise::example::item10">
+				<source>조깅/줄넘기</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item11" resname="report::exercise::example::item11">
+				<source>인라인스케이트</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item12" resname="report::exercise::example::item12">
+				<source>수영 시합</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item13" resname="report::exercise::example::item13">
+				<source>축구 시합</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="report::exercise::example::item14" resname="report::exercise::example::item14">
+				<source>무거운 물건 나르기</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="test123" resname="test123">
+				<source>test123</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="webhook-test" resname="webhook-test">
+				<source>webhook-test</source>
+				<target></target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
